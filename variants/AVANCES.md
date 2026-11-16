@@ -21,3 +21,6 @@
 **Pendiente**
 - Completar los marcadores [COMPLETAR] y resolver las inconsistencias de cifras (ver README).
 - Elegir una variante y llevarla al repo real del sitio.
+
+## 2026-11-16 · Claude Code (2)
+- Agregué `index.html`: visor para alternar y comparar las 3 variantes, con modo móvil 360 px. Probado en Chromium (carga las 3, cambio por botones y teclado).

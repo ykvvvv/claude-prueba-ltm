@@ -3,7 +3,9 @@
 Tres rediseños de https://ltmpartners.site con **el mismo contenido**. No se tocó el sitio original (este repo no lo contiene; el contenido se leyó de la web en vivo el 2026-11-16).
 
 ## Cómo abrirlas
-Doble clic en `variante-a.html`, `variante-b.html` o `variante-c.html`. Se abren en el navegador; necesitan internet para cargar fuentes, logos y fotos.
+**Lo más cómodo: doble clic en `index.html`.** Es un visor con botones para pasar entre A, B y C, ver las tres lado a lado ("Comparar") y simular móvil a 360 px. Teclas: 1, 2, 3, 4 y M. Debe estar en la misma carpeta que las variantes.
+
+También puedes abrir cada una por separado: doble clic en `variante-a.html`, `variante-b.html` o `variante-c.html`. Se abren en el navegador; necesitan internet para cargar fuentes, logos y fotos.
 
 ## Qué cambia en cada una
 
